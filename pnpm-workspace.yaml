@@ -3,3 +3,4 @@ packages:
 
 catalog:
   '@types/node': '^20.11.0'
+  'drizzle-orm': '^0.30.0'
